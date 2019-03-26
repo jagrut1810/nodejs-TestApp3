@@ -1,0 +1,24 @@
+{
+  "name": "nodetest2",
+  "version": "1.0.0",
+  "description": "Example 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagrut1810/nodejs-TestApp3.git"
+  },
+  "keywords": [
+    "coursera",
+    "example"
+  ],
+  "author": "JA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jagrut1810/nodejs-TestApp3/issues"
+  },
+  "homepage": "https://github.com/jagrut1810/nodejs-TestApp3#readme"
+}
